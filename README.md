@@ -4,7 +4,10 @@ Django does not provide a way to have separate configurations. All project-relat
 
 You will the following for optimizing your Django Project –
 
-Separate Django Application definition – INSTALLED_APPS - https://studygyaan.com/django/django-best-practice-configuring-settings-file#INSTALLED_APPS
-Separate Django Database Local Settings - https://studygyaan.com/django/django-best-practice-configuring-settings-file#local-database
-Change Django Template Paths Directory - https://studygyaan.com/django/django-best-practice-configuring-settings-file#template-path
-Add Static and Media Paths - https://studygyaan.com/django/django-best-practice-configuring-settings-file#static-media-path
+[Separate Django Application definition – INSTALLED_APPS](https://studygyaan.com/django/django-best-practice-configuring-settings-file#INSTALLED_APPS)
+
+[Separate Django Database Local Settings](https://studygyaan.com/django/django-best-practice-configuring-settings-file#local-database)
+
+[Change Django Template Paths Directory](https://studygyaan.com/django/django-best-practice-configuring-settings-file#template-path)
+
+[Add Static and Media Paths](https://studygyaan.com/django/django-best-practice-configuring-settings-file#static-media-path)
